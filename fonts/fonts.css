@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "FredokaOne-Regular"; 
+	src: url("FredokaOne-Regular.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+} 
+@font-face {
+	font-family: "PTSerif-Italic"; 
+	src: url("PTSerif-Italic.ttf") format("truetype"); 
+
+	font-style: italic; 
+	font-weight: normal; 
+	font-display: swap;
+} 
+@font-face {
+	font-family: "PTSerif-Bold"; 
+	src: url("PTSerif-Bold.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+} 
+@font-face {
+	font-family: "Quicksand-Light"; 
+	src: url("Quicksand-Light.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+}
+@font-face {
+	font-family: "Raleway-Regular"; 
+	src: url("Raleway-Regular.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+}
+@font-face {
+	font-family: "Raleway-Medium"; 
+	src: url("Raleway-Medium.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+}
+@font-face {
+	font-family: "Quicksand"; 
+	src: url("Quicksand.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+}
+@font-face {
+	font-family: "Quicksand-Light"; 
+	src: url("Quicksand-Light.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+	font-display: swap;
+}
